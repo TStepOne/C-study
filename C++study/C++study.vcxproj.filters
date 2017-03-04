@@ -15,10 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="引用基础.cpp">
+    <ClCompile Include="引用基础1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="引用提高.cpp">
+    <ClCompile Include="引用提高2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="new和delete3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="内联函数4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

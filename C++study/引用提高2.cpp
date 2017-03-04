@@ -7,7 +7,7 @@ using namespace std;
 
 // 1、const对象的引用必须是const的，将普通引用绑定到const对象是不合法的
 // 2、const引用可使用相关类型的对象（常量，非同类型的变量或表达式）初始化
-void main()
+void main_02()
 {
 #if 0
 	int *p;
@@ -42,5 +42,5 @@ void main()
 	//double &ra = a+6;
 
 	const double &ra = a;
-	const double &ra = a + 6;
+//	const double &ra = a + 6;
 }
