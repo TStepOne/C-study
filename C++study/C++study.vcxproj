@@ -144,8 +144,13 @@
   <ItemGroup>
     <ClCompile Include="new和delete3.cpp" />
     <ClCompile Include="内联函数4.cpp" />
+    <ClCompile Include="单链表.cpp" />
     <ClCompile Include="引用基础1.cpp" />
     <ClCompile Include="引用提高2.cpp" />
+    <ClCompile Include="强转cast5.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="list.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

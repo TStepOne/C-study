@@ -20,7 +20,7 @@ inline int sqr(int x)
 }
 
 
-void main()
+void main_04()
 {
 
 	int  i = 0;

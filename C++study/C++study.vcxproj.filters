@@ -27,5 +27,16 @@
     <ClCompile Include="内联函数4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="强转cast5.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
